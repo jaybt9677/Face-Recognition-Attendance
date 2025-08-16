@@ -1,0 +1,13 @@
+cmake → required for compiling dlib
+
+dlib → core library for face recognition
+
+face-recognition → main library for detecting and encoding faces
+
+face-recognition-models → pretrained models
+
+numpy → matrix operations
+
+opencv-python → camera feed & image processing
+
+pandas → writing attendance into CSV
